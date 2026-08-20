@@ -74,4 +74,18 @@ These measures were used to analyze patient volume, billing performance, admissi
 - March recorded the highest patient volume, while May recorded the lowest.
 - Cash was the most frequently used payment method.
 - 40% of patients were admitted, while 60% were treated as outpatients.
-- Young adults and female patients recorded higher healthcare utilization. 
+- Young adults and female patients recorded higher healthcare utilization.
+
+ ## Recommendations
+
+- More attention should be given to preventing and managing respiratory infections since Upper Respiratory Tract Infection was the most common diagnosis.
+- The General Outpatient Department may need more staff and resources because it had the highest number of patients.
+- The hospital with the highest billing should be further reviewed to understand what is driving the high billing amount.
+- High billing diagnoses such as Acute Abdomen should be monitored to better understand the factors contributing to their costs.
+- Hospital resources and staffing can be planned around patient volume trends, especially during months with higher patient numbers.
+- Since cash was the most commonly used payment method, the hospital should continue to make cash payment convenient while also supporting other payment options.
+- The higher healthcare utilization among young adults and females can be considered when planning healthcare services.
+
+ ## Dashboard Preview
+
+The dashboard provides an overview of patient demographics, healthcare utilization, diagnoses, hospital billing, admission patterns, and payment methods.
