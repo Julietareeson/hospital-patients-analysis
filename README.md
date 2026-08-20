@@ -32,3 +32,46 @@ A hospital management team wants to improve patient care, optimize hospital oper
 - Data Visualization
 - Exploratory Data Analysis
 - Healthcare Data Analysis
+
+ ## Data Preparation
+
+The dataset was reviewed and prepared using Power Query before being loaded into Power BI.
+
+- Data validity: 100%
+- Errors: 0%
+- Empty values: 0%
+- Data types: Accurate
+- New calculated columns were created to support the analysis.
+- The cleaned dataset was loaded into Power BI for data modeling, DAX calculations, and visualization.
+
+ ## Analysis & DAX Measures
+
+Several DAX measures were created to support the analysis and dashboard visualizations.
+
+Key measures included:
+
+- Total Patients
+- Total Billing
+- Average Billing
+- Average Patient Age
+- Admission Rate
+- Admitted Patients
+- Outpatients
+- Male Patients
+- Female Patients
+- Unique Hospitals
+- Unique Diagnoses
+- Unique Departments
+
+These measures were used to analyze patient volume, billing performance, admission patterns, demographics, and hospital utilization.
+
+## Key Insights
+
+- Upper Respiratory Tract Infection was the most common diagnosis.
+- General Outpatient (OPD) recorded the highest patient volume.
+- Ahmadu Bello University Teaching Hospital generated the highest total billing.
+- Acute Abdomen had the highest average billing among the diagnoses analyzed.
+- March recorded the highest patient volume, while May recorded the lowest.
+- Cash was the most frequently used payment method.
+- 40% of patients were admitted, while 60% were treated as outpatients.
+- Young adults and female patients recorded higher healthcare utilization. 
