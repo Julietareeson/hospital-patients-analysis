@@ -86,8 +86,8 @@ These measures were used to analyze patient volume, billing performance, admissi
 - Since cash was the most commonly used payment method, the hospital should continue to make cash payment convenient while also supporting other payment options.
 - The higher healthcare utilization among young adults and females can be considered when planning healthcare services.
 
- ## Dashboard Preview
+## Dashboard Preview
 
 The dashboard provides an overview of patient demographics, healthcare utilization, diagnoses, hospital billing, admission patterns, and payment methods.
-![Hospital Patients Dashboard]
-(hospital_dashboard.png)
+
+![Hospital Patients Dashboard](hospital_dashboard.png)
