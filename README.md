@@ -90,4 +90,6 @@ These measures were used to analyze patient volume, billing performance, admissi
 
 The dashboard provides an overview of patient demographics, healthcare utilization, diagnoses, hospital billing, admission patterns, and payment methods.
 
-![Hospital Patients Dashboard](./hospital_dashboad.png)
+![Hospital Patients Dashboard - Page 1](./hospital_dashboard_page1.png)
+
+![Hospital Patients Dashboard - Page 2](./hospital_dashboard_page2.png)
